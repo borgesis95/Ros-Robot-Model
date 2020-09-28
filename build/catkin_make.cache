@@ -1,0 +1,2 @@
+gazebo-world:robot-wheels
+-DCATKIN_DEVEL_PREFIX=/home/salvo/simulation_ws/devel -DCMAKE_INSTALL_PREFIX=/home/salvo/simulation_ws/install -G Unix Makefiles

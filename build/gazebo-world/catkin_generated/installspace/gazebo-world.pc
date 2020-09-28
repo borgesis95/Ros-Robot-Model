@@ -1,0 +1,8 @@
+prefix=/home/salvo/simulation_ws/install
+
+Name: gazebo-world
+Description: Description of gazebo-world
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
