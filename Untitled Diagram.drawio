@@ -1,4 +1,4 @@
-<mxfile modified="2021-10-29T17:50:32.041Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="aL7DR8mobeRda1LxOLOH" version="14.9.2" type="github">
+<mxfile modified="2021-10-29T19:33:30.526Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="v26t14Esm0jypKtyg4qC" version="14.9.2" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1833" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
         <mxCell id="Ft62hbUQw5UP1unR5k6m-31" value="&lt;font style=&quot;font-size: 20px&quot; face=&quot;Times New Roman&quot;&gt;A&lt;br&gt;P&lt;br&gt;I&lt;br&gt;&lt;br&gt;G&lt;br&gt;A&lt;br&gt;T&lt;br&gt;E&lt;br&gt;W&lt;br&gt;A&lt;br&gt;Y&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;direction=south;arcSize=7;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="293.22" y="153.57" width="100" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="Ft62hbUQw5UP1unR5k6m-36" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png;" vertex="1" parent="1">
+        <mxCell id="Ft62hbUQw5UP1unR5k6m-36" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png;noLabel=1;fontColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="140" width="66.43" height="66.43" as="geometry" />
         </mxCell>
         <mxCell id="Ft62hbUQw5UP1unR5k6m-37" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/applications/microservice.svg;" vertex="1" parent="1">
@@ -62,6 +62,9 @@
         </mxCell>
         <mxCell id="Ft62hbUQw5UP1unR5k6m-52" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/miu/24/device-smartphones-iphones-horizontal-outline-stroke-128.png;fontColor=#99FFCC;" vertex="1" parent="1">
           <mxGeometry x="30" y="314.57" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft62hbUQw5UP1unR5k6m-54" value="&lt;span&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px&quot; face=&quot;Times New Roman&quot;&gt;REDIS CACHE&lt;/font&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;rounded=0;labelBackgroundColor=none;fontColor=#99FFCC;" vertex="1" parent="1">
+          <mxGeometry x="540" y="130" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
